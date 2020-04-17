@@ -39,7 +39,7 @@
 // console.log(factorial(6))
 
 //                              EXERCISE #18
-
+/////////////////////////////////////
 let z = [];
 numbers(10, 100);
 function numbers(x, y) {
