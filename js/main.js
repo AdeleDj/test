@@ -41,13 +41,13 @@
 
 //                              EXERCISE #18
 
-// let z = [];
-// numbers(10, 100);
-// function numbers(x, y) {
-//     let arrayLength = y-x;
-//     for (let i = 0; i < arrayLength+1; i++) {
-//         z[i] = x;
-//         x++;
-//     }
-//     console.log(z);
-// }
+let z = [];
+numbers(10, 100);
+function numbers(x, y) {
+    let arrayLength = y-x;
+    for (let i = 0; i < arrayLength+1; i++) {
+        z[i] = x;
+        x++;
+    }
+    console.log(z);
+}
